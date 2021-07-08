@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Introduction
+## Introduction 
 
 We wanted to take Flutter a step further and accelerate the process of building production-level apps. Presenting our solution- [Flutter Starter](https://flutter-starter.github.io/)!
 
